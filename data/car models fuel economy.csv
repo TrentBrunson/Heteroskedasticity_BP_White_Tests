@@ -1,0 +1,352 @@
+Name,Cmpg,Eng,Inv_eng
+Acura RL 3.7L,17,3.7,0.27027027
+Acura TL 2wd 3.5L,18,3.5,0.285714286
+Acura TL 4wd 3.7L,17,3.7,0.27027027
+Aston Martin DB9 5.9L,13,5.9,0.169491525
+Aston Martin DBS 5.9L,12,5.9,0.169491525
+Aston Martin Rapide 5.9L,13,5.9,0.169491525
+Audi A3 2L,22,2,0.5
+Audi A3 Quattro 2L,21,2,0.5
+Audi A4 2L,22,2,0.5
+Audi A4 Avant Quattro 2L,21,2,0.5
+Audi A4 Quattro 2L,21,2,0.5
+Audi A5 Cabriolet 2L,22,2,0.5
+Audi A5 Cabriolet Quattro 2L,21,2,0.5
+Audi A5 Quattro 2L,21,2,0.5
+Audi A6 3.2L,21,3.2,0.3125
+Audi A6 Avant Quattro 3L,18,3,0.333333333
+Audi A6 Quattro 3L,18,3,0.333333333
+Audi A6 Quattro 4.2L,16,4.2,0.238095238
+Audi A8 4.2L,17,4.2,0.238095238
+Audi A8L 4.2L,17,4.2,0.238095238
+Audi S4 3L,18,3,0.333333333
+Audi S5 4.2L,16,4.2,0.238095238
+Audi S5 Cabriolet 3L,17,3,0.333333333
+Audi S6 5.2L,14,5.2,0.192307692
+Audi TT Coupe Quattro 2L,22,2,0.5
+Bentley Cont Supersports Convertible FFV 6L,12,6,0.166666667
+Bentley Continental Flying Spur FFV 6L,11,6,0.166666667
+Bentley Continental GTC FFV 6L,11,6,0.166666667
+Bentley Mulsanne 6.8L,11,6.8,0.147058824
+BMW 128Ci Convertible 3L,18,3,0.333333333
+BMW 128i 3L,18,3,0.333333333
+BMW 135i 3L,18,3,0.333333333
+BMW 135i Convertible 3L,18,3,0.333333333
+BMW 328Ci 3L,18,3,0.333333333
+BMW 328Ci Convertible 3L,18,3,0.333333333
+BMW 328Ci xDrive 3L,17,3,0.333333333
+BMW 328i 3L,18,3,0.333333333
+BMW 328i Sports Wagon 3L,18,3,0.333333333
+BMW 328i xDrive 3L,17,3,0.333333333
+BMW 328i xDrive Sports Wagon 3L,17,3,0.333333333
+BMW 335Ci 3L,19,3,0.333333333
+BMW 335Ci Convertible 3L,19,3,0.333333333
+BMW 335Ci xDrive 3L,18,3,0.333333333
+BMW 335i 3L,19,3,0.333333333
+BMW 335i xDrive 3L,18,3,0.333333333
+BMW 335is Convertible 3L,17,3,0.333333333
+BMW 335is Coupe 3L,17,3,0.333333333
+BMW 528i 3L,22,3,0.333333333
+BMW 535i 3L,20,3,0.333333333
+BMW 535i Gran Turismo 3L,20,3,0.333333333
+BMW 535i xDrive 3L,19,3,0.333333333
+BMW 535i xDrive Gran Turismo 3L,19,3,0.333333333
+BMW 550i 4.4L,17,4.4,0.227272727
+BMW 550i Gran Turismo 4.4L,15,4.4,0.227272727
+BMW 550i xDrive 4.4L,16,4.4,0.227272727
+BMW 550i xDrive Gran Turismo 4.4L,15,4.4,0.227272727
+BMW 740i 3L,17,3,0.333333333
+BMW 740Li 3L,17,3,0.333333333
+BMW 750i 4.4L,15,4.4,0.227272727
+BMW 750i xDrive 4.4L,14,4.4,0.227272727
+BMW 750Li 4.4L,14,4.4,0.227272727
+BMW 750Li xDrive 4.4L,14,4.4,0.227272727
+BMW 760Li 6L,13,6,0.166666667
+BMW Alpina B7 LWB 4.4L,14,4.4,0.227272727
+BMW Alpina B7 LWB xDrive 4.4L,14,4.4,0.227272727
+BMW Alpina B7 SWB 4.4L,14,4.4,0.227272727
+BMW Alpina B7 SWB xDrive 4.4L,14,4.4,0.227272727
+BMW M3 Convertible 4L,14,4,0.25
+BMW M3 Coupe 4L,14,4,0.25
+BMW M3 Sedan 4L,14,4,0.25
+Buick Lacrosse 2.4L,19,2.4,0.416666667
+Buick Lacrosse 3.6L,17,3.6,0.277777778
+Buick Lacrosse Awd 3.6L,16,3.6,0.277777778
+Buick Lucerne 4.6L,15,4.6,0.217391304
+Buick Lucerne FFV 3.9L,17,3.9,0.256410256
+Buick Regal 2.4L,19,2.4,0.416666667
+Buick Regal FFV 2L,18,2,0.5
+Cadillac CTS 3.6L,18,3.6,0.277777778
+Cadillac CTS 3L,18,3,0.333333333
+Cadillac CTS 6.2L,12,6.2,0.161290323
+Cadillac CTS Awd 3.6L,18,3.6,0.277777778
+Cadillac CTS Awd 3L,18,3,0.333333333
+Cadillac CTS Wagon 3.6L,18,3.6,0.277777778
+Cadillac CTS Wagon 3L,18,3,0.333333333
+Cadillac CTS Wagon 6.2L,12,6.2,0.161290323
+Cadillac CTS Wagon Awd 3.6L,18,3.6,0.277777778
+Cadillac CTS Wagon Awd 3L,18,3,0.333333333
+Cadillac DTS 4.6L,15,4.6,0.217391304
+Cadillac STS 3.6L,18,3.6,0.277777778
+Cadillac STS Awd 3.6L,18,3.6,0.277777778
+Chevrolet Aveo 1.6L,25,1.6,0.625
+Chevrolet Aveo 5 1.6L,25,1.6,0.625
+Chevrolet Camaro 3.6L,18,3.6,0.277777778
+Chevrolet Camaro 6.2L,16,6.2,0.161290323
+Chevrolet Cruze 1.4L,24,1.4,0.714285714
+Chevrolet Cruze 1.8L,22,1.8,0.555555556
+Chevrolet Cruze ECO 1.4L,26,1.4,0.714285714
+Chevrolet Impala FFV 3.5L,19,3.5,0.285714286
+Chevrolet Impala FFV 3.9L,17,3.9,0.256410256
+Chevrolet Malibu 2.4L,22,2.4,0.416666667
+Chevrolet Malibu 3.6L,17,3.6,0.277777778
+Chevrolet Malibu FFV 2.4L,22,2.4,0.416666667
+Chrysler 200 2.4L,21,2.4,0.416666667
+Chrysler 200 Convertible 2.4L,20,2.4,0.416666667
+Chrysler 200 Convertible FFV 3.6L,19,3.6,0.277777778
+Chrysler 200 FFV 3.6L,19,3.6,0.277777778
+Chrysler 300 5.7L,16,5.7,0.175438597
+Chrysler 300 Awd 5.7L,15,5.7,0.175438597
+Chrysler 300 FFV 3.6L,18,3.6,0.277777778
+Dodge Avenger 2.4L,21,2.4,0.416666667
+Dodge Avenger FFV 3.6L,19,3.6,0.277777778
+Dodge Caliber 2.4L,22,2.4,0.416666667
+Dodge Caliber 2L,23,2,0.5
+Dodge Challenger 5.7L,16,5.7,0.175438597
+Dodge Challenger FFV 3.6L,18,3.6,0.277777778
+Dodge Challenger SRT8 6.4L,14,6.4,0.15625
+Dodge Charger 5.7L,16,5.7,0.175438597
+Dodge Charger Awd 5.7L,15,5.7,0.175438597
+Dodge Charger FFV 3.6L,18,3.6,0.277777778
+Ford Crown Victoria FFV 4.6L,16,4.6,0.217391304
+Ford Fiesta Fwd 1.6L,29,1.6,0.625
+Ford Fiesta SFE Fwd 1.6L,29,1.6,0.625
+Ford Focus Fwd 2L,25,2,0.5
+Ford Fusion Awd 3.5L,17,3.5,0.285714286
+Ford Fusion Awd FFV 3L,18,3,0.333333333
+Ford Fusion Fwd 2.5L,23,2.5,0.4
+Ford Fusion Fwd 3.5L,18,3.5,0.285714286
+Ford Fusion Fwd FFV 3L,20,3,0.333333333
+Ford Mustang 3.7L,19,3.7,0.27027027
+Ford Mustang 5L,18,5,0.2
+Ford Mustang Convertible 3.7L,19,3.7,0.27027027
+Ford Taurus Awd 3.5L,17,3.5,0.285714286
+Ford Taurus Fwd 3.5L,18,3.5,0.285714286
+Honda Accord 2DR Coupe 2.4L,22,2.4,0.416666667
+Honda Accord 2DR Coupe 3.5L,19,3.5,0.285714286
+Honda Accord 4DR Sedan 2.4L,23,2.4,0.416666667
+Honda Accord 4DR Sedan 3.5L,20,3.5,0.285714286
+Honda Civic 1.8L,25,1.8,0.555555556
+Hyundai Accent 1.6L,27,1.6,0.625
+Hyundai Azera 3.3L,20,3.3,0.303030303
+Hyundai Azera 3.8L,19,3.8,0.263157895
+Hyundai Elantra 1.8L,29,1.8,0.555555556
+Hyundai Elantra Touring 2L,23,2,0.5
+Hyundai Equus 4.6L,16,4.6,0.217391304
+Hyundai Genesis 3.8L,18,3.8,0.263157895
+Hyundai Genesis 4.6L,17,4.6,0.217391304
+Hyundai Genesis Coupe 2L,20,2,0.5
+Hyundai Genesis Coupe 3.8L,17,3.8,0.263157895
+Hyundai Sonata 2.4L,22,2.4,0.416666667
+Hyundai Sonata 2L,22,2,0.5
+Infiniti EX35 3.5L,17,3.5,0.285714286
+Infiniti EX35 Awd 3.5L,17,3.5,0.285714286
+Infiniti G25 2.5L,20,2.5,0.4
+Infiniti G25x 2.5L,19,2.5,0.4
+Infiniti G37 Convertible 3.7L,17,3.7,0.27027027
+Infiniti G37 Coupe 3.7L,19,3.7,0.27027027
+Infiniti G37x Coupe 3.7L,18,3.7,0.27027027
+Infiniti M37 3.7L,18,3.7,0.27027027
+Infiniti M37X 3.7L,17,3.7,0.27027027
+Infiniti M56 5.6L,16,5.6,0.178571429
+Infiniti M56X 5.6L,16,5.6,0.178571429
+Jaguar XF 5L,16,5,0.2
+Jaguar XJ 5L,15,5,0.2
+Jaguar XJ Long wheelbase 5L,15,5,0.2
+Jaguar XJ Short wheelbase 5L,16,5,0.2
+Jaguar XK 5L,16,5,0.2
+Jaguar XK Convertible 5L,16,5,0.2
+Kia Forte Koup 2.4L,23,2.4,0.416666667
+Kia Forte Koup 2L,25,2,0.5
+Kia Optima 2.4L,24,2.4,0.416666667
+Kia Optima 2L,22,2,0.5
+Kia Rio 1.6L,27,1.6,0.625
+Kia Rondo 2.4L,20,2.4,0.416666667
+Kia Rondo 2.7L,18,2.7,0.37037037
+Kia SOUL 1.6L,26,1.6,0.625
+Kia SOUL 2L,24,2,0.5
+Lexus ES 350 3.5L,19,3.5,0.285714286
+Lexus GS 350 3.5L,19,3.5,0.285714286
+Lexus GS 350 Awd 3.5L,18,3.5,0.285714286
+Lexus GS 460 4.6L,17,4.6,0.217391304
+Lexus IS 250 250C 2.5L,21,2.5,0.4
+Lexus IS 250 Awd 2.5L,20,2.5,0.4
+Lexus IS 350 350C 3.5L,20,3.5,0.285714286
+Lexus IS 350 Awd 3.5L,18,3.5,0.285714286
+Lexus IS F 5L,16,5,0.2
+Lexus LS 460 4.6L,16,4.6,0.217391304
+Lexus LS 460 Awd 4.6L,16,4.6,0.217391304
+Lexus LS 460 L 4.6L,16,4.6,0.217391304
+Lexus LS 460 L Awd 4.6L,16,4.6,0.217391304
+Lincoln-Mercury Grand Marquis FFV 4.6L,16,4.6,0.217391304
+Lincoln-Mercury Milan Awd FFV 3L,18,3,0.333333333
+Lincoln-Mercury Milan Fwd 2.5L,23,2.5,0.4
+Lincoln-Mercury Milan Fwd FFV 3L,20,3,0.333333333
+Lincoln-Mercury MKS Awd 3.5L,17,3.5,0.285714286
+Lincoln-Mercury MKS Awd 3.7L,16,3.7,0.27027027
+Lincoln-Mercury MKS Fwd 3.5L,17,3.5,0.285714286
+Lincoln-Mercury MKZ Awd 3.5L,17,3.5,0.285714286
+Lincoln-Mercury MKZ Fwd 3.5L,18,3.5,0.285714286
+Lincoln-Mercury Town Car FFV 4.6L,16,4.6,0.217391304
+Maserati Granturismo 4.2L,13,4.2,0.238095238
+Maserati Granturismo 4.7L,13,4.7,0.212765957
+Maserati Granturismo Convertible 4.7L,12,4.7,0.212765957
+Maserati Quattroporte 4.2L,12,4.2,0.238095238
+Maserati Quattroporte 4.7L,12,4.7,0.212765957
+Mazda 2 1.5L,27,1.5,0.666666667
+Mazda 3 2.5L,22,2.5,0.4
+Mazda 3 2L,24,2,0.5
+Mazda 6 2.5L,22,2.5,0.4
+Mazda 6 3.7L,18,3.7,0.27027027
+Mercedes C 300 3L,18,3,0.333333333
+Mercedes C 300 4matic 3.5L,17,3.5,0.285714286
+Mercedes C 300 4matic FFV 3L,18,3,0.333333333
+Mercedes C 300 FFV 3L,18,3,0.333333333
+Mercedes C 350 3.5L,17,3.5,0.285714286
+Mercedes C 63 AMG 6.2L,13,6.2,0.161290323
+Mercedes CLS 550 4.7L,14,4.7,0.212765957
+Mercedes CLS 63 AMG 6.3L,12,6.3,0.158730159
+Mercedes E 350 3.5L,17,3.5,0.285714286
+Mercedes E 350 4matic 3.5L,17,3.5,0.285714286
+Mercedes E 350 4matic Wagon 3.5L,16,3.5,0.285714286
+Mercedes E 350 Convertible 3.5L,17,3.5,0.285714286
+Mercedes E 350 Coupe 3.5L,17,3.5,0.285714286
+Mercedes E 550 4.7L,15,4.7,0.212765957
+Mercedes E 550 4matic 5.5L,15,5.5,0.181818182
+Mercedes E 550 Convertible 5.5L,15,5.5,0.181818182
+Mercedes E 550 Coupe 5.5L,15,5.5,0.181818182
+Mercedes E 63 AMG 6.2L,13,6.2,0.161290323
+Mercedes G 550 5.5L,11,5.5,0.181818182
+Mercedes GL 450 4matic 4.7L,13,4.7,0.212765957
+Mercedes GL 550 4matic 5.5L,12,5.5,0.181818182
+Mercedes GLK 350 3.5L,16,3.5,0.285714286
+Mercedes GLK 350 4matic 3.5L,16,3.5,0.285714286
+Mercedes ML 350 3.5L,16,3.5,0.285714286
+Mercedes ML 350 4matic 3.5L,15,3.5,0.285714286
+Mercedes ML 550 4matic 5.5L,13,5.5,0.181818182
+Mercedes ML 63 AMG 6.3L,11,6.3,0.158730159
+Mercedes R 350 4matic 3.5L,15,3.5,0.285714286
+Mercedes S 550 4matic 5.5L,14,5.5,0.181818182
+Mercedes S 550 5.5L,15,5.5,0.181818182
+Mini Cooper 1.6L,28,1.6,0.625
+Mini Cooper Countryman 1.6L,25,1.6,0.625
+Mini Cooper S 1.6L,26,1.6,0.625
+Mini Cooper S Clubman 1.6L,26,1.6,0.625
+Mini Cooper S Convertible 1.6L,26,1.6,0.625
+Mini Cooper S Countryman 1.6L,25,1.6,0.625
+Mini Cooper S Countryman All4 1.6L,23,1.6,0.625
+Mini Mini Clubman 1.6L,27,1.6,0.625
+Mini Mini Convertible 1.6L,27,1.6,0.625
+Mitsubishi Eclipse 2.4L,20,2.4,0.416666667
+Mitsubishi Eclipse 3.8L,17,3.8,0.263157895
+Mitsubishi Eclipse Spyder 2.4L,20,2.4,0.416666667
+Mitsubishi Eclipse Spyder 3.8L,16,3.8,0.263157895
+Mitsubishi Galant 2.4L,21,2.4,0.416666667
+Mitsubishi Lancer 2.4L,23,2.4,0.416666667
+Mitsubishi Lancer Turbo 2L,17,2,0.5
+Mitsubishi Lancer 2L,25,2,0.5
+Mitsubishi Lancer Evolution 2L,17,2,0.5
+Mitsubishi Lancer Sportback Turbo 2L,17,2,0.5
+Mitsubishi Lancer Sportback 2L,25,2,0.5
+Nissan 370Z 3.7L,19,3.7,0.27027027
+Nissan 370Z Roadster 3.7L,18,3.7,0.27027027
+Nissan Altima 2.5L,23,2.5,0.4
+Nissan Altima 3.5L,20,3.5,0.285714286
+Nissan Altima Coupe 2.5L,23,2.5,0.4
+Nissan Altima Coupe 3.5L,20,3.5,0.285714286
+Nissan Cube 1.8L,27,1.8,0.555555556
+Nissan GT-R 3.8L,15,3.8,0.263157895
+Nissan Juke 1.6L,27,1.6,0.625
+Nissan Juke Awd 1.6L,25,1.6,0.625
+Nissan Maxima 3.5L,19,3.5,0.285714286
+Nissan Sentra 2.5L,24,2.5,0.4
+Nissan Sentra 2L,27,2,0.5
+Nissan Versa 1.6L,25,1.6,0.625
+Nissan Versa 1.8L,24,1.8,0.555555556
+Porsche 911 Carrera 3.6L,19,3.6,0.277777778
+Porsche 911 Carrera 4 3.6L,18,3.6,0.277777778
+Porsche 911 Carrera 4 Cabriolet 3.6L,18,3.6,0.277777778
+Porsche 911 Carrera 4 Targa 3.6L,18,3.6,0.277777778
+Porsche 911 Carrera 4S 3.8L,18,3.8,0.263157895
+Porsche 911 Carrera 4S Cabriolet 3.8L,18,3.8,0.263157895
+Porsche 911 Carrera 4S Targa 3.8L,18,3.8,0.263157895
+Porsche 911 Carrera Cabriolet 3.6L,19,3.6,0.277777778
+Porsche 911 Carrera S 3.8L,19,3.8,0.263157895
+Porsche 911 Carrera S Cabriolet 3.8L,19,3.8,0.263157895
+Porsche 911 GTS 3.8L,19,3.8,0.263157895
+Porsche 911 GTS Cabriolet 3.8L,19,3.8,0.263157895
+Porsche 911 Turbo Cabriolet 3.8L,16,3.8,0.263157895
+Porsche 911 Turbo Coupe 3.8L,17,3.8,0.263157895
+Porsche 911 Turbo S Cabriolet 3.8L,16,3.8,0.263157895
+Porsche 911 Turbo S Coupe 3.8L,17,3.8,0.263157895
+Porsche Panamera 3.6L,18,3.6,0.277777778
+Porsche Panamera 4 3.6L,18,3.6,0.277777778
+Porsche Panamera 4S 4.8L,16,4.8,0.208333333
+Porsche Panamera S 4.8L,16,4.8,0.208333333
+Porsche Panamera Turbo 4.8L,15,4.8,0.208333333
+Rolls-Royce Ghost 6.6L,13,6.6,0.151515152
+Rolls-Royce Phantom 6.7L,11,6.7,0.149253731
+Rolls-Royce Phantom Coupe 6.7L,11,6.7,0.149253731
+Rolls-Royce Phantom Drophead Coupe 6.7L,11,6.7,0.149253731
+Rolls-Royce Phantom EWB 6.7L,11,6.7,0.149253731
+Saab 9-3 Sedan Awd 2L,17,2,0.5
+Saab 9-3 Sport Sedan 2L,19,2,0.5
+Scion tC 2.5L,23,2.5,0.4
+Scion xB 2.4L,22,2.4,0.416666667
+Scion xD 1.8L,27,1.8,0.555555556
+Subaru Forester Awd 2.5L,21,2.5,0.4
+Subaru Impreza Awd 2.5L,20,2.5,0.4
+Subaru Impreza Outback Sport Awd 2.5L,20,2.5,0.4
+Subaru Legacy Awd 2.5L,23,2.5,0.4
+Subaru Legacy Awd 3.6L,18,3.6,0.277777778
+Subaru Outback Awd Wagon 2.5L,22,2.5,0.4
+Subaru Outback Awd Wagon 3.6L,18,3.6,0.277777778
+Subaru Tribeca Awd 3.6L,16,3.6,0.277777778
+Suzuki Kizashi 2.4L,23,2.4,0.416666667
+Suzuki Kizashi Awd 2.4L,22,2.4,0.416666667
+Suzuki Kizashi S 2.4L,23,2.4,0.416666667
+Suzuki Kizashi S Awd 2.4L,23,2.4,0.416666667
+Suzuki Swift + 1.6L,25,1.6,0.625
+Suzuki SX4 2L,23,2,0.5
+Suzuki SX4 Awd 2L,23,2,0.5
+Suzuki SX4 Sedan 2L,25,2,0.5
+Suzuki SX4 Sport Anniversary Edition 2L,23,2,0.5
+Toyota Avalon 3.5L,20,3.5,0.285714286
+Toyota Camry 2.5L,22,2.5,0.4
+Toyota Camry 3.5L,20,3.5,0.285714286
+Toyota Corolla 1.8L,26,1.8,0.555555556
+Toyota Corolla 2.4L,22,2.4,0.416666667
+Toyota Corolla Matrix 1.8L,25,1.8,0.555555556
+Toyota Corolla Matrix 2.4L,21,2.4,0.416666667
+Toyota Yaris 1.5L,29,1.5,0.666666667
+Volkswagen CC 2L,22,2,0.5
+Volkswagen CC 4motion 3.6L,17,3.6,0.277777778
+Volkswagen Eos 2L,22,2,0.5
+Volkswagen Golf 2.5L,24,2.5,0.4
+Volkswagen GTI 2L,24,2,0.5
+Volkswagen Jetta 2.5L,24,2.5,0.4
+Volkswagen Jetta 2L,23,2,0.5
+Volkswagen Jetta Sportwagen 2.5L,24,2.5,0.4
+Volvo C30 Fwd 2.5L,21,2.5,0.4
+Volvo C70 Fwd 2.5L,19,2.5,0.4
+Volvo S40 Fwd 2.5L,21,2.5,0.4
+Volvo S60 Awd 3L,18,3,0.333333333
+Volvo S80 Awd 3L,18,3,0.333333333
+Volvo S80 Fwd 3.2L,19,3.2,0.3125
+Volvo V50 Fwd 2.5L,21,2.5,0.4
+Volvo XC60 Awd 3.2L,18,3.2,0.3125
+Volvo XC60 Awd 3L,17,3,0.333333333
+Volvo XC60 Fwd 3.2L,18,3.2,0.3125
+Volvo XC70 Awd 3.2L,18,3.2,0.3125
+Volvo XC70 Awd 3L,17,3,0.333333333
+Volvo XC70 Fwd 3.2L,18,3.2,0.3125
