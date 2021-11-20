@@ -92,3 +92,15 @@ print(df3)
 df["lncmpg"] = np.log(df["Cmpg"])
 df["lneng"] = np.log(df["Eng"])
 # %%
+model4 = smf.ols(formula = 'lncmpg ~ lneng', data = df).fit()
+print(model4.summary())
+# %%
+resid4 = model4.resid
+fitted4 = model4.fittedvalues
+# %%
+#QQ plot of residuals
+fig1 = sm.qqplot(resid4,fit=True,line='45')
+#fitted v. residuals
+fig, ax = plt.subplots()
+_ = ax.scatter(fitted4, resid4)
+# %%
