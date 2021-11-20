@@ -88,3 +88,7 @@ df3 = pd.DataFrame({'Test Type':['Breusch-Pagan Test', 'White Test'],
 print(df3)
 
 # %%
+# create log tranforms
+df["lncmpg"] = np.log(df["Cmpg"])
+df["lneng"] = np.log(df["Eng"])
+# %%
