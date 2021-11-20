@@ -104,3 +104,14 @@ fig1 = sm.qqplot(resid4,fit=True,line='45')
 fig, ax = plt.subplots()
 _ = ax.scatter(fitted4, resid4)
 # %%
+# Breusch-Pagan Test for Heteroscedasticity
+bptest = sms.diagnostic.het_breuschpagan(resid4,model4.model.exog)
+# White Test for Heteroscedasticity, including squares and cross-product of exog
+white_test = sms.diagnostic.het_white(resid4,model4.model.exog)
+
+print('Breusch-Pagan Test and White LM Tests for Heteroscedasticity')
+df4 = pd.DataFrame({'Test Type':['Breusch-Pagan Test', 'White Test'],
+                   'Chi-Sq':[bptest[0], white_test[0]], 'DF':[2, 4],
+                   'Prob>Chi-Sq':[bptest[1], white_test[1]]})
+print(df4)
+# %%
