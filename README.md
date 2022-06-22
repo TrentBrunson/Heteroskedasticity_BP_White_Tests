@@ -1,2 +1,2 @@
 # Heteroskedasticity_WhiteTest
-Module for evaluation model homoscedasticity and corrections
+Module for evaluation of homoscedasticityin a model and corrections needed.
